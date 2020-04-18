@@ -1,2 +1,2 @@
-# javafuncts
+# javafunctions
 Functions in Java
